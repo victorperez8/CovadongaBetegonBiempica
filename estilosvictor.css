@@ -1,0 +1,46 @@
+body{
+  background-color: rgb(245,245,255);
+}
+p{
+  font-family: times new roman;
+  margin: 50px;
+}
+div{
+ width: 100px;
+ height: 100px;
+ margin: auto;
+}
+header{
+  background-color:rgb(32,32,32);
+  height: 70px;
+  width: 1330px;
+}
+h1{
+  text-align: center;
+  color: rgb(255,255,255);
+}
+img{
+  float: right;
+}
+ul{
+  background-color: rgb(200,200,255);
+  width: 300px;
+  padding: 20px;
+  border: 10px;
+  margin: 50px;
+  border-style: ridge;
+  border-color: rgb(190,190,255);
+  border-width: 5px;
+}
+h2{
+  font-family: times new roman;
+  margin: 50px;
+}
+h4{
+  font-family: times new roman;
+  margin: 50px;
+}
+footer{
+  background-color: rgb(32,32,32);
+  color: rgb(255,255,255);
+}
